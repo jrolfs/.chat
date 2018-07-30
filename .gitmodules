@@ -1,3 +1,6 @@
 [submodule "weechat-vimode"]
 	path = weechat-vimode
 	url = https://github.com/GermainZ/weechat-vimode.git
+[submodule "wee-slack"]
+	path = wee-slack
+	url = https://github.com/wee-slack/wee-slack
